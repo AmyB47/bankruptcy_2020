@@ -42,11 +42,8 @@ Features:
 **Tools**
 
 * Google Cloud Platform
-
 * U.S. Securities and Exchange Commission EDGAR filings search
-
 * PostgresSQL  
-
 * Python
 
 Python packages:
