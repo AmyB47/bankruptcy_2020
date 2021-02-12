@@ -11,7 +11,7 @@ Target: Bankruptcy filing within one year of annual financial report
 Features:
 
 | From Financial Reports                | Calculated Features                                       | Industry Divisions                       |
-| ------------------------------------------ | ---------------------------------------------- | --------------------------------------------- |
+| ------------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------- |
 | Assets                     | Debt ratio                                                 | Agriculture, Forestry and Fishing        |
 | Assets Current             | Debt equity ratio                                            | Mining                                   |
 | Liabilities                | Current ratio                                                | Construction                                                 |
