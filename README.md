@@ -11,15 +11,15 @@ Target: Bankruptcy filing within one year of annual financial report
 Features:
 
 | From Financial Reports                | Calculated Features                                       | Industry Divisions                       |
-| ------------------------------------------ | ---------------------------------------------- | ------------------------------------------- |
+| ------------------------------------------ | ---------------------------------------------- | --------------------------------------------- |
 | Assets                     | Debt ratio                                                 | Agriculture, Forestry and Fishing        |
 | Assets Current             | Debt equity ratio                                            | Mining                                   |
 | Liabilities                | Current ratio                                                | Construction                                                 |
 | Liabilities Current        | Leverage                                                     | Manufacturing                                                |
-| Net Income/Loss            | Return on equity                                             | Transportation, Communications, Electric, Gas and Sanitary service |
+| Net Income/Loss            | Return on equity                                             | Transportation, Communications, Electric,</br> Gas and Sanitary service |
 | Stockholders Equity        | Return on assets                                             | Wholesale Trade                                              |
 | Operating Income Loss      | Gross profitability ratio                                    | Retail Trade                                                 |
-| Earnings Per Share Diluted | For all calculated  ratios, deviation from industry division | Finance, Insurance and Real Estate                           |
+| Earnings Per Share Diluted | For all calculated  ratios, deviation <br>from industry division | Finance, Insurance and Real Estate                           |
 |                            |                                                              | Services                                                     |
 
 
