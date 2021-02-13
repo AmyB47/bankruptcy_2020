@@ -6,7 +6,7 @@ These are a few of the queries run to explore the Google Cloud Platform SEC publ
 
 To examine the total number of different companies that submitted a 10-K annual report to the SEC:  
 
-![gcp_by_year](../../GCP_queries/gcp_sec_by_year.png)
+![gcp_by_year](/bankruptcy_2020/GCP_queries/gcp_sec_by_year.png)
 
 
 
